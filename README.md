@@ -5,7 +5,7 @@ AI/ML Engineer based in Hyderabad, India. I build computer vision and NLP system
 - 🔭 Currently: building in public — one new algorithm every day in [daily_coding](https://github.com/Harshavardhan88/daily_coding)
 - 🌱 Learning: LLM agents, RAG, LangGraph
 - 💼 Open to: entry-level AI/ML engineer roles
-- 📫 Reach me: choppariharshavardhan8@gmail.com · [LinkedIn](https://www.linkedin.com/in/harshavardhanchoppari)
+- 📫 Reach me: harshach888@gmail.com · [LinkedIn](https://www.linkedin.com/in/harshavardhanchoppari)
 
 ## Tech Stack
 
