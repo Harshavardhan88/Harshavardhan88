@@ -1,91 +1,62 @@
-# 👋 Hi, I'm Choppari Harshavardhan
+# Hi, I'm Harsha Vardhan 👋
 
-🎓 Final Year B.Tech Student (Artificial Intelligence & Machine Learning)  
-📍 Hyderabad, India  
-📧 harshach888@gmail.com | 📱 +91 8096624999  
-🔗 [LinkedIn](www.linkedin.com/in/harshavardhanchoppari) | [GitHub](https://github.com/Harshavardhan88)
+AI/ML Engineer based in Hyderabad, India. I build computer vision and NLP systems — real-time gesture recognition, multimodal sentiment analysis, and text classification — and I'm currently going deep on GenAI: RAG pipelines, LLM agents, and LangChain.
 
----
+- 🔭 Currently: building in public — one new algorithm every day in [daily_coding](https://github.com/Harshavardhan88/daily_coding)
+- 🌱 Learning: LLM agents, RAG, LangGraph
+- 💼 Open to: entry-level AI/ML engineer roles
+- 📫 Reach me: choppariharshavardhan8@gmail.com · [LinkedIn](https://www.linkedin.com/in/harshavardhanchoppari)
 
-## 🚀 Career Objective
+## Tech Stack
 
-As a passionate AIML undergraduate, I'm eager to contribute to real-world software and AI solutions. I'm actively building projects in Python, NLP, and Deep Learning. I'm looking for opportunities at product-based companies where I can grow as a developer and create meaningful impact through technology.
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/Hugging_Face-FFD21E?style=flat&logo=huggingface&logoColor=black)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 
----
+## Featured Projects
 
-## 🛠️ Technical Skills
+### [Sign Language Detection](https://github.com/Harshavardhan88/SIGN-LANGUAGE-DETECTION)
+Real-time ASL recognition with OpenCV + MediaPipe + CNN — 91.7% accuracy at 30+ FPS, with a live overlay interface.
 
-- **Languages:** Python, C++, Java (Basic), SQL  
-- **Libraries/Frameworks:** TensorFlow, scikit-learn, OpenCV, MediaPipe, HuggingFace, Pandas, NumPy  
-- **Tools:** Jupyter Notebook, VS Code, GitHub  
-- **Other Skills:** Data Preprocessing, Transfer Learning, NLP, BERT, TF-IDF, CNNs
+### [Movie Genre Classification](https://github.com/Harshavardhan88/MOVIE_GENRE_CLASSIFICATION)
+Multi-label genre prediction from movie plot summaries using TF-IDF with Logistic Regression, Random Forest, and SVM.
 
----
+### [AmblyoCare](https://github.com/Harshavardhan88/vision-therapy-web)
+Vision therapy web platform for amblyopia (lazy eye) exercises and tracking.
 
-## 💼 Experience
+### [Multimodal Sentiment Analysis](https://github.com/Harshavardhan88/multimodal-sentimental-analysis)
+Sentiment analysis combining text, audio, and video signals with transformer-based models.
 
-**Machine Learning Intern** – *ElevateLabs, Bengaluru (Virtual)*  
-_Apr 2025 – May 2025_  
-- Built ML models for sign language detection and housing price prediction.  
-- Implemented regression models and evaluated using MAE, MSE, R².  
-- Visualized data insights and model results for analysis.
+### [daily_coding](https://github.com/Harshavardhan88/daily_coding)
+One new algorithm every day, written from scratch — sorting, searching, graphs, dynamic programming, and more.
 
----
+## Experience
 
-## 📂 Projects
+**Machine Learning Intern** — ElevateLabs, Bengaluru (Virtual), Apr 2025 – May 2025
+- Built ML models for sign language detection and housing price prediction
+- Implemented regression models, evaluated with MAE, MSE, R², and visualized results for analysis
 
-### 📌 [Sign Language Detection](https://github.com/Harshavardhan88/ELEVATELABS-PROJECT)
-- Real-time ASL recognition using OpenCV + MediaPipe + CNN
-- Used both custom CNN and MobileNetV2 with transfer learning  
-- Built for live gesture detection with overlay interface
+## Education
 
-### 📌 [Sentiment Analysis with BERT](https://github.com/Harshavardhan88/Sentiment-BERT)
-- Used HuggingFace Transformers to fine-tune BERT  
-- Achieved high accuracy on binary sentiment classification tasks  
-- Visualized embeddings and predictions using matplotlib
+**TKR College of Engineering & Technology (JNTUH)** — B.Tech, CSE (AI & ML), 2022 – 2026, CGPA 8.29
 
-### 📌 [Movie Genre Classification](https://github.com/Harshavardhan88/MOVIE_GENRE_CLASSIFICATION)
-- Multi-label genre prediction from plot summaries  
-- Preprocessed using NLTK and vectorized with TF-IDF  
-- Trained models: Logistic Regression, Random Forest, SVM
+## Certifications
 
----
+- IBM — Getting Started with AI
+- Databricks — Generative AI Fundamentals
+- Prompt Engineering
 
-## 🎓 Education
+## GitHub Stats
 
-**TKR College of Engineering & Technology (JNTUH)**  
-_B.Tech in CSE (AI & ML), Oct 2022 – May 2026_  
-GPA: 8.12 / 10  
-
-**Narayana Institutions (Intermediate – MPC)**  
-_2020–2022 | 92.6%_
-
-**St. Joseph’s High School**  
-_2010–2020 | GPA: 10_
+![Harsha's GitHub stats](https://github-readme-stats.vercel.app/api?username=Harshavardhan88&show_icons=true&theme=default)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Harshavardhan88&layout=compact&theme=default)
 
 ---
 
-## 📜 Certifications
-
-- IBM – Getting Started with AI (Feb 2025)  
-- Databricks – Generative AI Fundamentals (Apr 2025)  
-- CognitiveClass.ai – Python for Data Analysis (Jan 2025)  
-- LinkedIn – Generative AI (Apr 2025)  
-- CognitiveClass.ai – Prompt Engineering for Everyone (Apr 2025)
-
----
-
-## 🏆 Achievements
-
-- 🧠 Built a real-time ASL recognition system using CNN + MediaPipe  
-- 🎯 Completed ML internship at ElevateLabs  
-- 📝 Winner – Essay Writing (NCC Competition)  
-- 👨‍💻 Participated in Smart India Hackathon (College Expo)  
-- 🚀 Maintained clean, well-documented GitHub repositories  
-
----
-
-## 🤝 Let’s Connect
-
-Feel free to reach out for collaboration, internships, or developer opportunities.
-
+Open to collaboration and entry-level AI/ML roles — feel free to reach out.
